@@ -1,0 +1,85 @@
+# prompt
+
+There are two utterances: A and B. Please tell me whether A and B are similar in terms of intent between A and B. Just answer yes or no.
+A: {sen_A}
+B: {sen_B}
+Answer:
+
+
+# prompt
+
+There are two utterances: A and B. Please tell me whether A and B are similar in terms of intent between A and B. Just answer yes or no.
+A: {sen_A}
+B: {sen_B}
+
+
+# prompt
+
+You are an agent, please tell whether utterance A and utterance B are talking about similar topics. Just answer yes or no.
+A: {sen_A}
+B: {sen_B}
+
+
+# prompt
+
+You are an agent, please tell whether the following two utterances have similar intent behind them. Just answer yes or no.
+A: {sen_A}
+B: {sen_B}
+Answer:
+
+# prompt
+
+Here are two utterances: A and B. Please tell me whether A and B are similar in terms of topic between A and B. Just answer yes or no.
+A: {sen_A}
+B: {sen_B}
+Answer:
+
+
+# prompt
+
+You are a chatbot for general services. Please tell whether the following two utterances have similar intent behind them. Just answer yes or no.
+A: {sen_A}
+B: {sen_B}
+Answer:
+
+
+
+# prompt
+You are a chatbot for general services. The following two utterances are from users. Please differentiate whether they contain the similar intent. Just answer yes or no.
+A: {sen_A}
+B: {sen_B}
+Answer:
+
+
+# prompt
+
+You are a bank customer service representative. The following two utterances are from customers. Please determine whether they contain the similar intent. Just answer yes or no.
+A: {sen_A}
+B: {sen_B}
+Answer:
+
+
+# prompt
+You are a technical support representative. The following two sentences are from users. Please differentiate whether they contain the similar intent. Just answer yes or no.
+A: {sen_A}
+B: {sen_B}
+Answer:
+
+
+# prompt_mcid
+Here are two utterances from users: A and B. Please differentiate whether they represent the same intent. Just answer yes or no.
+A: {sen_A}
+B: {sen_B}
+Answer:
+
+# prompt_stackoverflow
+Here are two programming questions: A and B. Please tell me whether A and B are related to same topics of under a same filed. A topic may tags like excel, matlab, or python. Just answer yes or no.
+A: {sen_A}
+B: {sen_B}
+Answer:
+
+# prompt_banking
+Here are two utterances from customers: A and B. Please tell me whether the following two sentences express the same user intent? Just answer yes or no.
+A: {sen_A}
+B: {sen_B}
+Answer:
